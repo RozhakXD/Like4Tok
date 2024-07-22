@@ -23,10 +23,10 @@ $ python Run.py
 ```
 
 ## Troubleshooting
-- If you're unable to login, try using Kiwi Browser and Cookie Dough Extension to obtain a new cookie. Make sure to enter the correct cookie.
-- If your followers or likes are not increasing, it's possible that you entered the wrong link or the Like4Like system is experiencing a bug. Double-check your link and try again.
 - If you encounter any other issues, try restarting the script or checking the Like4Tok GitHub page for updates.
+- If you're unable to login, try using Kiwi Browser and Cookie Dough Extension to obtain a new cookie. Make sure to enter the correct cookie.
 - If you're not receiving coins, it's possible that the Like4Like system has been patched and this bypass program is no longer functional. As a bypass program, its functionality may decrease over time.
+- If your followers or likes are not increasing, it's possible that you entered the wrong link or the Like4Like system is experiencing a bug. Double-check your link and try again.
 
 ## Features
 ![Like4Tok](https://github.com/user-attachments/assets/531c147d-0fb9-45c1-bbd6-fe239917c1ce)
